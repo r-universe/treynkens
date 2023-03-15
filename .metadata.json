@@ -1,10 +1,10 @@
 [
   {
-    "package": "ReIns",
+    "package": "rospca",
     "oncran": true
   },
   {
-    "package": "rospca",
+    "package": "ReIns",
     "oncran": true
   }
 ]
