@@ -13,3 +13,8 @@
 	url = https://github.com/treynkens/rospca
 	shallow = true
 	registered = true
+[submodule "smurf"]
+	path = smurf
+	url = https://gitlab.com/treynkens/smurf
+	shallow = true
+	registered = true
