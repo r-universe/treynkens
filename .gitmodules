@@ -8,6 +8,3 @@
 [submodule "rospca"]
 	path = rospca
 	url = https://github.com/treynkens/rospca
-[submodule "smurf"]
-	path = smurf
-	url = https://gitlab.com/treynkens/smurf
